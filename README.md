@@ -8,17 +8,17 @@ The purpose of a recommendation system basically is to search for content that w
 1 ) Content Based :
 Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 
-#  Twitter , Youtube .
+-Twitter , Youtube .
 
-Which music you are listening , what singer are you watching . Form embeddings for the features .
+-Which music you are listening , what singer are you watching . Form embeddings for the features .
 
-User specific actions or similar items reccomendation .
+-User specific actions or similar items reccomendation .
 
-It will create a vector of it .
+-It will create a vector of it .
 
-These systems make recommendations using a user's item and profile features. They hypothesize that if a user was interested in an item in the past, they will once again be interested in it in the future
+-These systems make recommendations using a user's item and profile features. They hypothesize that if a user was interested in an item in the past, they will once again be interested in it in the future
 
-One issue that arises is making obvious recommendations because of excessive specialization (user A is only interested in categories B, C, and D, and the system is not able to recommend items outside those categories, even though they could be interesting to them).
+-One issue that arises is making obvious recommendations because of excessive specialization (user A is only interested in categories B, C, and D, and the system is not able to recommend items outside those categories, even though they could be interesting to them).
 
 2 ) Collaborative Based :
 Collaborative filtering systems, which are based on user-item interactions.
