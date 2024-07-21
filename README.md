@@ -50,6 +50,10 @@ Content-based systems, which use characteristic information and takes item attri
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest. here is a demo,
 
+# Demo
+
+Front page.png
+
 #Dataset has been used:
 
 https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
