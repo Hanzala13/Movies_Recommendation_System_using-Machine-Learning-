@@ -52,7 +52,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 # Demo
 
-[Front Page](https://github.com/Hanzala13/Movies_Recommendation_System_using-Machine-Learning-/blob/main/Front%20page.png)
+![Front Page](https://github.com/Hanzala13/Movies_Recommendation_System_using-Machine-Learning-/blob/main/Front%20page.png?raw=true "Front Page")
 
 
 
