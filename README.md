@@ -8,7 +8,7 @@ The purpose of a recommendation system basically is to search for content that w
 1 ) Content Based :
 Content-based systems, which use characteristic information and takes item attriubutes into consideration .
 
-Twitter , Youtube .
+#  Twitter , Youtube .
 
 Which music you are listening , what singer are you watching . Form embeddings for the features .
 
